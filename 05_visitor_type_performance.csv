@@ -1,0 +1,5 @@
+variant,visitor_type,assigned_users,converted_users,conversion_rate_pct,revenue_per_user
+control,new,9606,609,6.34,4.37
+treatment,new,9694,629,6.49,4.75
+control,returning,6017,565,9.39,6.82
+treatment,returning,5967,613,10.27,7.22

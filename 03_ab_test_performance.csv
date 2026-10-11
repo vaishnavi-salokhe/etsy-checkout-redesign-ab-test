@@ -1,0 +1,3 @@
+variant,assigned_users,converted_users,conversion_rate_pct,total_orders,total_revenue,average_order_value,revenue_per_user
+control,15623,1174,7.51,1308,82996.68,63.45,5.31
+treatment,15661,1242,7.93,1381,89123,64.54,5.69
